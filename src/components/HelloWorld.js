@@ -1,7 +1,8 @@
 import Frases from "./Frases"
 
 function HelloWorld() {
-    const url2 = 'https://placehold.co/300x400/rose/white'
+    
+    const url2 = 'https://placehold.co/300x400/pink/white'
 
     return(
         <div>
